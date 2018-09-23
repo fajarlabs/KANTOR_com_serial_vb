@@ -1,0 +1,11 @@
+D:\COMbyTCP\bin\Release\COMbyTCP.exe
+D:\COMbyTCP\bin\Release\COMbyTCP.pdb
+D:\COMbyTCP\bin\Release\COMbyTCP.xml
+D:\COMbyTCP\obj\Release\COMbyTCP.AboutBox.resources
+D:\COMbyTCP\obj\Release\COMbyTCP.Form.resources
+D:\COMbyTCP\obj\Release\COMbyTCP.Resources.resources
+D:\COMbyTCP\obj\Release\COMbyTCP.TCPSettings.resources
+D:\COMbyTCP\obj\Release\Application.vbproj.GenerateResource.Cache
+D:\COMbyTCP\obj\Release\COMbyTCP.exe
+D:\COMbyTCP\obj\Release\COMbyTCP.xml
+D:\COMbyTCP\obj\Release\COMbyTCP.pdb
